@@ -3,26 +3,55 @@
 
 <p align="center">
 <a href="https://sky-cast-gamma-steel.vercel.app" target="blank">🌐 Live Demo</a> • 
-<a href="https://github.com/jarajapugowtham/Sky-cast" target="blank">💻 Source Code</a> • 
-<a href="https://linkedin.com/in/jarajapugowtham" target="blank">🔗 LinkedIn</a> •
-<a href="https://instagram.com/___a_loser__" target="blank">📸 Instagram</a>
+<a href="https://github.com/jarajapugowtham/Sky-cast" target="blank">💻 Source Code</a>
+</p>
+
+---
+
+### 🌐 Catch Me:
+<p align="left">
+<a href="https://instagram.com/___a_loser__" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="https://linkedin.com/in/jarajapugowtham" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:Jarajapugowtham0851@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</p>
+
+---
+
+### 💻 Tech Stack:
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **Sky Cast - Weather App** and more projects
+- 🔭 Currently building **Sky Cast - Weather App**
 - 🌱 Learning **JavaScript, React, APIs & Responsive Design**
-- 💬 Ask me about **HTML, CSS**
-- 📫 Reach me: `your.email@gmail.com`
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- 📫 Reach me: `Jarajapugowtham0851@gmail.com`
 
 ---
 
 ### 📌 Featured Projects
 
+<p align="center">
 <a href="https://github.com/jarajapugowtham/Sky-cast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarajapugowtham&repo=Sky-cast&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jarajapugowtham&repo=Sky-cast&theme=tokyonight&hide_border=true" />
 </a>
+</p>
 
 ---
 
@@ -36,27 +65,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarajapugowtham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-### 🛠️ Tech Stack
-[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarajapugowtham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/jarajapugowtham" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://instagram.com/___a_loser__" target="blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-<a href="mailto:your.email@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
+### 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jarajapugowtham&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="Gowtham's trophies" />
 </p>
 
 ---
