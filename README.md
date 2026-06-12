@@ -4,7 +4,8 @@
 <p align="center">
 <a href="https://sky-cast-gamma-steel.vercel.app" target="blank">🌐 Live Demo</a> • 
 <a href="https://github.com/jarajapugowtham/Sky-cast" target="blank">💻 Source Code</a> • 
-<a href="https://linkedin.com/in/jarajapugowtham" target="blank">🔗 LinkedIn</a>
+<a href="https://linkedin.com/in/jarajapugowtham" target="blank">🔗 LinkedIn</a> •
+<a href="https://instagram.com/___a_loser__" target="blank">📸 Instagram</a>
 </p>
 
 ---
@@ -12,8 +13,8 @@
 ### 🚀 About Me
 - 🔭 Currently building **Sky Cast - Weather App** and more projects
 - 🌱 Learning **JavaScript, React, APIs & Responsive Design**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 Reach me: Add your email here
+- 💬 Ask me about **HTML, CSS**
+- 📫 Reach me: `your.email@gmail.com`
 
 ---
 
@@ -38,10 +39,10 @@
 ---
 
 ### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -49,6 +50,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/jarajapugowtham" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://instagram.com/___a_loser__" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="mailto:your.email@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </p>
 
