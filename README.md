@@ -3,7 +3,8 @@
 ### 👋 Hi! I'm Gowtham Jarajapu
 
 - 🌱 I'm currently learning **MERN Stack & DSA**
-- 💞️ I'm looking to collaborate on **Java and Web Projects**
+- 💞️ I'm looking to collaborate on 
+- ** Web Projects**
 - 📫 Reach me [jarajapugowtham0851@gmail.com](mailto:jarajapugowtham0851@gmail.com)
 
 ### 🌐 Catch Me:
@@ -28,11 +29,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jarajapugowtham&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarajapugowtham&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
+### 📌 Pinned Projects
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jarajapugowtham&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jarajapugowtham&repo=Sky-cast&theme=tokyonight)](https://github.com/jarajapugowtham/Sky-cast)
+### 📊 GitHub Stats
+
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarajapugowtham&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 
 ## 🔥 Most Used Languages
 <div align="center">
