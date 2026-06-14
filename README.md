@@ -22,18 +22,18 @@ Cloned and deployed the APSCHE Web Options Entry Portal with 100% original UI. F
 **2. Sky Cast - Weather App**
 Built a weather application with a friend using OpenWeather API. Users can search any city to get real-time weather data with a clean UI. Deployed on Vercel.
 🌐 **Live Demo:** [Click Here](https://sky-cast-gamma-steel.vercel.app)  
-📂 **Source Code:** [GitHub Repo](https://github.com/jarajapugowtham/sky-cast)  
+📂 **Source Code:** [GitHub Repo](https://github.com/jarajapugowtham/Sky-Cast)  
 **Tech:** HTML5, CSS3, JavaScript, OpenWeather API, Vercel
 
 ---
 
 ### 💻 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-original.svg" width="40" height="40"/>
-<img src="https://assets.vercel.com/image/upload/v1662130559/front/vercel/wordmark-dark.svg" width="80" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github-original.svg" width="40" height="40"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
