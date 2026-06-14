@@ -19,27 +19,21 @@ Cloned and deployed the APSCHE Web Options Entry Portal with 100% original UI. F
 📂 **Source Code:** [GitHub Repo](https://github.com/jarajapugowtham/Apsche.practicemodel)  
 **Tech:** HTML5, CSS3, JavaScript, GitHub Pages
 
-**2. Weather Cast App**
-Built a weather application with a friend using OpenWeather API. Users can search any city to get real-time weather data with a clean UI.
-🌐 **Live Demo:** [Add Link]  
-📂 **Source Code:** [Add Repo Link]  
-**Tech:** HTML, CSS, JavaScript, OpenWeather API
-
-**3. Consulting Project**
-Recently developed a consulting website for a local business. Focused on responsive design and fast loading speed.
-🌐 **Live Demo:** [Add Link]  
-📂 **Source Code:** [Add Repo Link]  
-**Tech:** HTML, CSS, JavaScript
+**2. Sky Cast - Weather App**
+Built a weather application with a friend using OpenWeather API. Users can search any city to get real-time weather data with a clean UI. Deployed on Vercel.
+🌐 **Live Demo:** [Click Here](https://sky-cast-gamma-steel.vercel.app)  
+📂 **Source Code:** [GitHub Repo](https://github.com/jarajapugowtham/sky-cast)  
+**Tech:** HTML5, CSS3, JavaScript, OpenWeather API, Vercel
 
 ---
 
 ### 💻 Tech Stack
-[HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[JavaScript](https://img.shields.io/badge/javascript-%23333.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-[GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-original.svg" width="40" height="40"/>
+<img src="https://assets.vercel.com/image/upload/v1662130559/front/vercel/wordmark-dark.svg" width="80" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github-original.svg" width="40" height="40"/>
 
 ---
 
@@ -47,13 +41,6 @@ Recently developed a consulting website for a local business. Focused on respons
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jarajapugowtham&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarajapugowtham&theme=radical&hide_border=true" alt="Streak" width="48%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jarajapugowtham/jarajapugowtham/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
