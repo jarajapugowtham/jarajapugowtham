@@ -2,8 +2,14 @@ Hi 👋, I'm Gowtham Jarajapu
 
 ### MERN Stack Developer | Building Real Projects
 
-I'm a passionate Frontend Developer from Vizag, currently pursuing B.Com at Aditya Degree College. I love building clean, responsive web apps and cloning real-world UIs to practice.
+I'm a passionate Frontend Developer from Vizag, currently pursuing Bachelor of computer Applications at Aditya Degree College. I love building clean, responsive web apps and cloning real-world UIs to practice.
+### 🚀 About Me
+- 💻 **Web Developer** | Student | Tech Enthusiast  
+- 📍 Visakhapatnam, Andhra Pradesh  
+- 💬 Ask me about **HTML, CSS, JavaScript**  
+- 📫 **Reach me:** Jarajapugowtham0851@gmail.com
 
+---
 ### 🛠️ Tech Stack
 [HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 [CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -11,10 +17,7 @@ I'm a passionate Frontend Developer from Vizag, currently pursuing B.Com at Adit
 [React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📌 Featured Projects 🔥
 
-**1. APSCHE Practice Portal**  
-100% original UI clone of APSCHE site. Fully responsive + deployed
 
 ### 📌 Featured Projects
 **1. APSCHE Practice Portal** 
@@ -29,13 +32,7 @@ Real-time weather using OpenWeather API
 
 ---
 
-### 🚀 About Me
-- 💻 **Web Developer** | Student | Tech Enthusiast  
-- 📍 Visakhapatnam, Andhra Pradesh  
-- 💬 Ask me about **HTML, CSS, JavaScript**  
-- 📫 **Reach me:** Jarajapugowtham0851@gmail.com
 
----
 
 ### 📌 Featured Projects 🔥
 
