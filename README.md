@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gowtham Jarajapu</h1>
 <h3 align="center">Aspiring Frontend Developer</h3>
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 📌 Featured Projects
+**1. APSCHE Practice Portal** 
+Cloned & deployed original UI. 100% Responsive  
+[🌐 Live Demo](https://jarajapugowtham.github.io/Apsche.practicemodel/)
+
+**2. SkyCast Weather App**
+Real-time weather using OpenWeather API  
+[🌐 Live Demo](https://sky-cast-gamma-steel.vercel.app)
+
+
 
 ---
 
@@ -22,7 +37,7 @@ Cloned and deployed the APSCHE Web Options Entry Portal with 100% original UI. F
 **2. Sky Cast - Weather App**
 Built a weather application with a friend using OpenWeather API. Users can search any city to get real-time weather data with a clean UI. Deployed on Vercel.
 🌐 **Live Demo:** [Click Here](https://sky-cast-gamma-steel.vercel.app)  
-📂 **Source Code:** [GitHub Repo](https://github.com/jarajapugowtham/Sky-Cast)  
+ 
 **Tech:** HTML5, CSS3, JavaScript, OpenWeather API, Vercel
 
 ---
